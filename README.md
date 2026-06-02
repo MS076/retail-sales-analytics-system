@@ -9,7 +9,7 @@ A full-stack retail management application featuring inventory tracking, sales m
 - Created Categories, Suppliers, Products, Orders, and OrderItems tables
 - Added SQL scripts for schema and sample data
 
-- ## Day 2 (June 2)
+- ## Day 2 (June 2, 2026)
 - Inserted sample order data
 - Built sales reporting queries
 - Created revenue reports
