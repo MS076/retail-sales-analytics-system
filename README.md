@@ -8,3 +8,10 @@ A full-stack retail management application featuring inventory tracking, sales m
 - Designed database schema
 - Created Categories, Suppliers, Products, Orders, and OrderItems tables
 - Added SQL scripts for schema and sample data
+
+- ## Day 2 (June 2)
+- Inserted sample order data
+- Built sales reporting queries
+- Created revenue reports
+- Implemented inventory status report
+- Built the Top 3 Best Selling Products report
