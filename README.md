@@ -15,3 +15,8 @@ A full-stack retail management application featuring inventory tracking, sales m
 - Created revenue reports
 - Implemented inventory status report
 - Built the Top 3 Best Selling Products report
+
+- ## Day 3 (June 3, 2026)
+- Created sales analysis queries using HAVING
+- Improved inventory status reporting
+- Continued SQL reporting development
