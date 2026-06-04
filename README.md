@@ -20,3 +20,6 @@ A full-stack retail management application featuring inventory tracking, sales m
 - Created sales analysis queries using HAVING
 - Improved inventory status reporting
 - Continued SQL reporting development
+
+- ## Day 4 (June 4, 2026)
+- Learn and implement CTE queries
