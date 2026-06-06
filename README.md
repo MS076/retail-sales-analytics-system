@@ -23,3 +23,6 @@ A full-stack retail management application featuring inventory tracking, sales m
 
 - ## Day 4 (June 4, 2026)
 - Learn and implement CTE queries
+
+- # Day 6(June 6, 2026)
+- Complete SQL analytics and reporting layer
