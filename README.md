@@ -3,7 +3,7 @@ A full-stack retail management application featuring inventory tracking, sales m
 
 ## Progress
 
-### Day 1 (June 1, 2026)
+## Day 1 (June 1, 2026)
 - Created project repository
 - Designed database schema
 - Created Categories, Suppliers, Products, Orders, and OrderItems tables
@@ -24,5 +24,17 @@ A full-stack retail management application featuring inventory tracking, sales m
 - ## Day 4 (June 4, 2026)
 - Learn and implement CTE queries
 
-- # Day 6(June 6, 2026)
+- ## Day 6(June 6, 2026)
 - Complete SQL analytics and reporting layer
+
+-## Day 8 (June 8)
+### Power BI Dashboard
+- Imported tables and reporting views
+- Created KPI cards:
+  - Total Products
+  - Total Quantity Sold
+  - Total Revenue
+- Created Top Selling Products chart
+- Created Revenue by Product chart
+- Added Inventory Report visualization
+
