@@ -1,5 +1,50 @@
 # retail-sales-analytics-system
-A full-stack retail management application featuring inventory tracking, sales management, and business intelligence dashboards using SQL Server and Power BI.
+This project demonstrates retail sales analytics using SQL Server and Power BI. It includes database design, data modeling, SQL analytics queries, views, CTEs, inventory reporting, and interactive Power BI dashboards for business insights.
+
+## Technologies Used
+- SQL Server Management Studio (SSMS)
+- Power BI Desktop
+
+## Database Tables
+- Categories
+- Suppliers
+- Products
+- Orders
+- OrderItems
+
+## SQL Features Implemented
+- Joins
+- Aggregations
+- GROUP BY & HAVING
+- CASE Statements
+- Views
+- Inventory Analysis
+- Revenue Analysis
+
+## Power BI Dashboards
+
+### Sales Dashboard
+Features:
+- Monthly Sales Trend
+- Top Selling Products
+- Revenue Analysis
+- KPI Cards
+- Interactive Month Slicer
+
+### Inventory Dashboard
+Features:
+- Stock Status Analysis
+- Unsold Products
+- Low Stock Alerts
+- Inventory Distribution
+- Stock Turnover Metrics
+
+## Project Structure
+Retail-Sales-Analytics-System
+├── SQL Scripts
+├── Power BI
+      ├── Screenshots
+
 
 ## Progress
 
