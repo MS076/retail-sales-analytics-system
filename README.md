@@ -38,3 +38,12 @@ A full-stack retail management application featuring inventory tracking, sales m
 - Created Revenue by Product chart
 - Added Inventory Report visualization
 
+## Day 11 (June 13)
+
+### Power BI Dashboard Completion
+- Completed Sales Dashboard
+- Completed Inventory Dashboard
+- Added KPI cards and interactive slicers
+- Implemented category-wise and product-wise analytics
+- Added inventory status tracking and unsold product analysis
+- Finalized dashboard design and formatting
