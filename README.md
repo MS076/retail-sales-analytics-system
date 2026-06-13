@@ -54,25 +54,25 @@ Retail-Sales-Analytics-System
 - Created Categories, Suppliers, Products, Orders, and OrderItems tables
 - Added SQL scripts for schema and sample data
 
-- ## Day 2 (June 2, 2026)
+## Day 2 (June 2, 2026)
 - Inserted sample order data
 - Built sales reporting queries
 - Created revenue reports
 - Implemented inventory status report
 - Built the Top 3 Best Selling Products report
 
-- ## Day 3 (June 3, 2026)
+## Day 3 (June 3, 2026)
 - Created sales analysis queries using HAVING
 - Improved inventory status reporting
 - Continued SQL reporting development
 
-- ## Day 4 (June 4, 2026)
+## Day 4 (June 4, 2026)
 - Learn and implement CTE queries
 
-- ## Day 6(June 6, 2026)
+## Day 6(June 6, 2026)
 - Complete SQL analytics and reporting layer
 
--## Day 8 (June 8)
+## Day 8 (June 8)
 ### Power BI Dashboard
 - Imported tables and reporting views
 - Created KPI cards:
